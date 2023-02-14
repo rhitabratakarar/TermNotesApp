@@ -30,7 +30,7 @@ This is a simple terminal based Notes app.
 
 3. Chalk
 
-4. Lodash
+4. Lodash-es
 
 5. Yargs
 
