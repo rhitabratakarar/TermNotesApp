@@ -8,19 +8,19 @@ This is a simple terminal based Notes app.
 
 2. Clone this git repository using the below mentioned command.
             
-        git clone https://github.com/rhitabratakarar/TermNotesApp.git
+        $ git clone https://github.com/rhitabratakarar/TermNotesApp.git
 
 3. Get inside the directory using
         
-        cd TermNotesApp
+        $ cd TermNotesApp
 
 4. Once you're into the project directory, use the below command to install the dependencies that will fetch the required packages to run the application.
 
-        npm install
+        $ npm install
 
 5. To run the application, use the below mentioned command
 
-        node app.js
+        $ node app.js
 
 # Dependencies:
 
